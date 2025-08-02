@@ -1,0 +1,23 @@
+ [
+  {
+    "id": 1,
+    "name": "Dr. Shaun Murphy",
+    "specialization": "Cardiologist",
+    "image": "https://cdn01.justjared.com/wp-content/uploads/headlines/2022/06/good-dr-exit.jpg",
+    "availability": "Available Today"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Morgan Reznick",
+    "specialization": "Dermatologist",
+    "image": "https://parade.com/.image/t_share/MTkwNTgxMzY2MzE2MDgzMDY4/fiona-gubelmann.jpg",
+    "availability": "Fully Booked"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Audrey Lim",
+    "specialization": "Pediatrician",
+    "image": "https://d.newsweek.com/en/full/1704145/christina-chang-leaving-good-doctor.jpg?w=1600&h=1600&l=37&t=33&q=88&f=c1646187b9cf61d70c2606b773ae9569",
+    "availability": "On Leave"
+  }
+]
