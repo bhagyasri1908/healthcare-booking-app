@@ -81,12 +81,17 @@ Install dependencies
 
 # Run the App
 # Backend (Node.js + Express)
+
 cd backend
+
 npm start
+
 Runs on http://localhost:5000
 
 # Frontend (React + Vite)
+
 cd frontend
+
 npm run dev
 
 ✅ Author
